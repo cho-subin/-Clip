@@ -52,6 +52,9 @@
 - 개발 리로스 절약과 컴포넌트 추상화 및 단일 책임 원칙 기반으로 클린 코드를 작성하려고 노력했습니다.
 
 #### 1. Button 공동 컴포넌트 ([소스코드](https://github.com/cho-subin/-Clip/blob/dev/src/components/common/Button/Button.tsx))
+<details>
+<summary>공동 컴포넌트 과정</summary>
+
 <img width="500" alt="스크린샷 2023-10-23 오후 6 20 57" src="https://github.com/cho-subin/-Clip/assets/100771469/58c0ce50-8706-49b1-983d-d5a17fed6557">
 <br/>
 <br/> <img width="477" alt="스크린샷 2023-10-23 오후 6 26 06" src="https://github.com/cho-subin/-Clip/assets/100771469/70d4a573-b716-4ff6-982b-5fdc9be8557b">
@@ -64,8 +67,11 @@
 
 <br/> - 이렇게 사용할 컴포넌트에 Button 컴포넌트 import와 props로 원하는 버튼의 설정을 내려주어 컴포넌트에
 <br/> 요구되는 버튼을 생성할 수 있었습니다.
+</details>
 
 #### 2. Catagory 공동 컴포넌트 ([소스코드](https://github.com/cho-subin/-Clip/blob/dev/src/components/common/Category/Category.tsx))
+<details>
+<summary>공동 컴포넌트 과정</summary>
 <img width="500" alt="스크린샷 2023-10-23 오후 6 50 37" src="https://github.com/cho-subin/-Clip/assets/100771469/c0a1b79e-5987-43bd-bb69-a04e1183a4b0">
 <br/>
 <br/> - Catagory ui는 동일하고 안의 내용과 icon이 달라지기 때문에 icon, title, onClick(클릭했을때 이동할 주소),
@@ -76,15 +82,13 @@
 
 <br/> - 이렇게 사용할 컴포넌트에 category 컴포넌트 import와 props로 원하는 상위, 하위 카테고리의 설정을
 <br/> 내려주어 컴포넌트에 요구되는 카테고리들을 생성할 수 있었습니다.
-
-
-
-
-
-
-
+</details>
 
 ### 모바일 퍼스트 ui
+<img width="576" alt="스크린샷 2023-10-23 오후 7 29 57" src="https://github.com/cho-subin/Clip/assets/100771469/73153b7b-bdd5-4ca7-bcf9-9c335205eaa6">
+- 유저가 쇼핑몰을 접속할때 웹 / 모바일 비중 데이터 관련 서치를 통해 모바일로 접속하는 유저가 약 2배이상 많다는것을 알게되었습니다.
+- 그로인해 clip 프로젝트도 유저의 사용성, 접근성 향상을 위해 모바일 퍼스트 ui로 진행하게 되었습니다.
+
 ### detail page - chat
 ### detail page - review
 ### my page - coupon
