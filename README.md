@@ -88,6 +88,10 @@
 - 그로인해 clip 프로젝트도 유저의 사용성, 접근성 향상을 위해 모바일 퍼스트 ui로 진행하게 되었습니다.
 
 ### detail page - chat
-### detail page - review
-### my page - coupon
+(채팅 영상)
 
+### detail page - review
+(리뷰 작성,삭제 영상)
+
+### my page - coupon
+(쿠폰 확인 영상)
