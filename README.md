@@ -45,6 +45,10 @@
 - `TypeScript`  `React` `StompJs` `Recoil`  `Axios` `Emotion`  `React-Query` 
 <br/>
 
+
+## 🔔 프로젝트 기여도
+https://github.com/supercoding-commerce/FE/graphs/contributors
+
 ## 🔔 내가 참여한 주요 기능
 ### 공통 컴포넌트
 - 프론트엔드 개발자들과의 협업을 위한 공통 컴포넌트 개발로 개발 리소스 절약 및 컴포넌트 추상화를 적용했습니다.
@@ -110,9 +114,3 @@ React Query의 캐싱 기능을 활용하여 중복된 API 요청을 최소화�
 
 - 유저가 쇼핑몰을 접속할때 웹 / 모바일 비중 데이터 관련 서치를 통해 모바일로 접속하는 유저가 약 2배이상 많다는것을 알게되었습니다.
 - 그로인해 clip 프로젝트도 유저의 사용성, 접근성 향상을 위해 모바일 퍼스트 ui로 진행하게 되었습니다.
-
-
-<br/>
-
-## 🔔 프로젝트 기여도
-https://github.com/supercoding-commerce/FE/graphs/contributors
