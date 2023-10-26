@@ -96,4 +96,5 @@
 ### my page - coupon
 (쿠폰 확인 영상)
 
-## 🔔 리팩토링
+## 🔔 프로젝트 기여도
+https://github.com/supercoding-commerce/FE/graphs/contributors
